@@ -97,7 +97,7 @@ The exact structure may vary depending on the implementation.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone github.com/Anveshreddy2006/NewsApp
 ```
 
 ### 2. Open the project
@@ -135,7 +135,6 @@ This project demonstrates practical frontend development concepts including:
 
 Possible improvements include:
 
-* Pagination or infinite scrolling
 * News filtering by country or language
 * Trending news section
 * Article sorting
@@ -150,19 +149,22 @@ Possible improvements include:
 
 Add screenshots of the application here.
 
-```text
 Home Page
-[Add Screenshot]
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a212ba65-6ff9-46ab-b58d-85ca67ed7a3b" />
+
 
 Dark Mode
-[Add Screenshot]
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35270d28-78d5-4cc6-8883-fc302ff1172e" />
+
 
 Search Results
-[Add Screenshot]
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef07f499-0c64-4055-9756-02b038dfe37f" />
+
 
 Watchlist
-[Add Screenshot]
-```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/358dd8ab-6fa2-4e7f-882f-617a2fca493f" />
+
+
 
 ---
 
